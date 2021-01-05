@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40"><DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"><Author>mgriffin0620@gmail.com none</Author>
+<LastAuthor>mgriffin0620@gmail.com none</LastAuthor><Created>Sat Nov 21 00:00:00 PST 2020</Created><LastSaved>Sat Nov 21 00:00:00 PST 2020</LastSaved><Company>trial</Company><Version>10.6735</Version></DocumentProperties><OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office"><DownloadComponents></DownloadComponents><LocationOfComponents HRef="/"></LocationOfComponents><Colors>	<Color>		<Index>22</Index>		<RGB>#FAFAFA</RGB>	</Color>	<Color>		<Index>23</Index>		<RGB>#F5F5F5</RGB>	</Color>	<Color>		<Index>24</Index>		<RGB>#777777</RGB>	</Color>	<Color>		<Index>25</Index>		<RGB>#808080</RGB>	</Color>	<Color>		<Index>26</Index>		<RGB>#969696</RGB>	</Color>	<Color>		<Index>27</Index>		<RGB>#B2B2B2</RGB>	</Color>	<Color>		<Index>28</Index>		<RGB>#C0C0C0</RGB>	</Color>	<Color>		<Index>29</Index>		<RGB>#DDDDDD</RGB>	</Color>	<Color>		<Index>30</Index>		<RGB>#EAEAEA</RGB>	</Color>	<Color>		<Index>31</Index>		<RGB>#F8F8F8</RGB>	</Color>	<Color>		<Index>33</Index>		<RGB>#FBFAF5</RGB>	</Color>	<Color>		<Index>34</Index>		<RGB>#F6F3E2</RGB>	</Color>	<Color>		<Index>36</Index>		<RGB>#BCCCE4</RGB>	</Color>	<Color>		<Index>38</Index>		<RGB>#EAEAEA</RGB>	</Color></Colors></OfficeDocumentSettings><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"><WindowHeight>10305</WindowHeight><WindowWidth>16845</WindowWidth><WindowTopX>615</WindowTopX><WindowTopY>-45</WindowTopY><ActiveSheet>2</ActiveSheet><ProtectStructure>False</ProtectStructure><ProtectWindows>False</ProtectWindows></ExcelWorkbook><Styles><Style ss:ID="reportTitle">
+	<Alignment ss:Vertical="Top"></Alignment>
+	<Font x:Family="Swiss" ss:Size="12" ss:Bold="1"></Font></Style><Style ss:ID="companyTitle">
+	<Alignment ss:Horizontal="Left" ss:Vertical="Bottom"></Alignment>
+	<Font x:Family="Swiss" ss:Size="18" ss:Color="#969696"></Font>
+</Style><Style ss:ID="dateRange">	<Alignment ss:Horizontal="Left" ss:Vertical="Bottom"></Alignment>	<Font ss:Size="9"></Font>	<NumberFormat ss:Format="Short Date"></NumberFormat></Style><Style ss:ID="subTitle">	<Alignment ss:Horizontal="Left" ss:Vertical="Bottom"></Alignment>	<Font x:Family="Swiss" ss:Size="10" ss:Bold="1"></Font></Style>
+<Style ss:ID="Money"><Font x:Family="Swiss" ss:Size="9"></Font><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><NumberFormat ss:Format="Currency"></NumberFormat><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+
+<Style ss:ID="StringLeft"><Font x:Family="Swiss" ss:Size="9"></Font><Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+
+<Style ss:ID="FooterMoneyRight"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><NumberFormat ss:Format="Currency"></NumberFormat><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border></Borders></Style>
+
+<Style ss:ID="FooterStringBottomLeft"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+
+<Style ss:ID="HeaderStringTopRight"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border></Borders></Style>
+
+<Style ss:ID="FooterStringLeft"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+
+<Style ss:ID="HeaderStringTopLeft"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+
+<Style ss:ID="MoneyRight"><Font x:Family="Swiss" ss:Size="9"></Font><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><NumberFormat ss:Format="Currency"></NumberFormat><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border></Borders></Style>
+
+<Style ss:ID="FooterMoneyBottomRight"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><NumberFormat ss:Format="Currency"></NumberFormat><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border></Borders></Style>
+
+<Style ss:ID="HeaderStringTop"><Font x:Family="Swiss" ss:Bold="1" ss:Size="9"></Font><Interior ss:Color="#F5F5F5" ss:Pattern="Solid"></Interior><Alignment ss:Vertical="Top" ss:Horizontal="Right" ss:WrapText="1"></Alignment><Borders><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#C0C0C0"></Border><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border> <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#DDDDDD"></Border></Borders></Style>
+</Styles><Worksheet ss:Name="Average Monthly Qualified Payro"><Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="8" x:FullColumns="1" x:FullRows="1"><Column ss:Width="150"></Column><Column ss:Width="80"></Column><Column ss:Width="95"></Column><Column ss:Width="145"></Column><Column ss:Width="180"></Column><Column ss:Width="85"></Column><Row ss:AutoFitHeight="0" ss:Height="20"><Cell ss:MergeAcross="5" ss:StyleID="companyTitle"><Data ss:Type="String">trial</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="18"><Cell ss:MergeAcross="1" ss:StyleID="reportTitle"><Data ss:Type="String">Average Monthly Qualified Payroll Cost Report</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="18"><Cell ss:MergeAcross="0" ss:StyleID="dateRange"><Data ss:Type="String">01/01/2019 - 12/31/2019</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="10"><Cell ss:MergeAcross="5"></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="13">	<Cell ss:StyleID="HeaderStringTopLeft" ss:Index="1">		<Data ss:Type="String">Employee Name</Data></Cell>	<Cell ss:StyleID="HeaderStringTop" ss:Index="2">		<Data ss:Type="String">Gross Earnings</Data></Cell>	<Cell ss:StyleID="HeaderStringTop" ss:Index="3">		<Data ss:Type="String">Adjusted Earnings</Data></Cell>	<Cell ss:StyleID="HeaderStringTop" ss:Index="4">		<Data ss:Type="String">(+)Allowable Employer Taxes</Data></Cell>	<Cell ss:StyleID="HeaderStringTop" ss:Index="5">		<Data ss:Type="String">(+)Allowable Company Contributions</Data></Cell>	<Cell ss:StyleID="HeaderStringTopRight" ss:Index="6">		<Data ss:Type="String">(=)Payroll Cost</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="13">	<Cell ss:StyleID="StringLeft" ss:Index="1">		<Data ss:Type="String">mike grif</Data></Cell>	<Cell ss:StyleID="Money" ss:Index="2">		<Data ss:Type="Number">0.00</Data></Cell>	<Cell ss:StyleID="Money" ss:Index="3">		<Data ss:Type="Number">0.00</Data></Cell>	<Cell ss:StyleID="Money" ss:Index="4">		<Data ss:Type="Number">0.00</Data></Cell>	<Cell ss:StyleID="Money" ss:Index="5">		<Data ss:Type="Number">0.00</Data></Cell>	<Cell ss:StyleID="MoneyRight" ss:Index="6">		<Data ss:Type="Number">0.00</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="13">	<Cell ss:StyleID="FooterStringLeft" ss:Index="1">		<Data ss:Type="String">Total Payroll Cost</Data></Cell>	<Cell ss:MergeAcross="4" ss:StyleID="FooterMoneyRight" ss:Index="2">		<Data ss:Type="Number">0.00</Data></Cell></Row><Row ss:AutoFitHeight="0" ss:Height="13">	<Cell ss:StyleID="FooterStringBottomLeft" ss:Index="1">		<Data ss:Type="String">Average Monthly Payroll Cost</Data></Cell>	<Cell ss:MergeAcross="4" ss:StyleID="FooterMoneyBottomRight" ss:Index="2">		<Data ss:Type="Number">0.00</Data></Cell></Row></Table><WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel"><PageSetup><Layout x:Orientation="Portrait"></Layout></PageSetup><ProtectObjects>False</ProtectObjects><ProtectScenarios>False</ProtectScenarios></WorksheetOptions></Worksheet></Workbook>
+                
+
+    
+
+    
+    
+    
+
